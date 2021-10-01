@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\Carrito_de_Compras\Carrito de Compras\bin\Debug\Carrito de Compras.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\Carrito_de_Compras\Carrito de Compras\bin\Debug\Carrito de Compras.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\Carrito_de_Compras\Carrito de Compras\bin\Debug\Carrito de Compras.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\Carrito_de_Compras\Carrito de Compras\obj\Debug\Carrito de Compras.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\Carrito_de_Compras\Carrito de Compras\obj\Debug\Carrito de Compras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\Carrito_de_Compras\Carrito de Compras\obj\Debug\Carrito de Compras.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\Carrito_de_Compras\Carrito de Compras\obj\Debug\Carrito de Compras.pdb

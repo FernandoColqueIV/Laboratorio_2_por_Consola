@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 9\Clase_9\bin\Debug\Clase_9.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 9\Clase_9\bin\Debug\Clase_9.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 9\Clase_9\bin\Debug\Clase_9.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 9\Clase_9\obj\Debug\Clase_9.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 9\Clase_9\obj\Debug\Clase_9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 9\Clase_9\obj\Debug\Clase_9.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 9\Clase_9\obj\Debug\Clase_9.pdb

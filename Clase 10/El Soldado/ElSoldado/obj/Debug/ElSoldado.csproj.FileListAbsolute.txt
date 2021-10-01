@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\ElSoldado\bin\Debug\ElSoldado.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\ElSoldado\bin\Debug\ElSoldado.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\ElSoldado\bin\Debug\ElSoldado.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\ElSoldado\obj\Debug\ElSoldado.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\ElSoldado\obj\Debug\ElSoldado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\ElSoldado\obj\Debug\ElSoldado.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 10\El Soldado\ElSoldado\obj\Debug\ElSoldado.pdb

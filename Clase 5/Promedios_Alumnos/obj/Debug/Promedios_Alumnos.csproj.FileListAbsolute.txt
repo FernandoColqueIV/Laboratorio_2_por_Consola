@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 5\Promedios_Alumnos\bin\Debug\Promedios_Alumnos.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 5\Promedios_Alumnos\bin\Debug\Promedios_Alumnos.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 5\Promedios_Alumnos\bin\Debug\Promedios_Alumnos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 5\Promedios_Alumnos\obj\Debug\Promedios_Alumnos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 5\Promedios_Alumnos\obj\Debug\Promedios_Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 5\Promedios_Alumnos\obj\Debug\Promedios_Alumnos.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 5\Promedios_Alumnos\obj\Debug\Promedios_Alumnos.pdb

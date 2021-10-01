@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 3\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 3\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 3\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 3\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 3\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 3\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio 2\Clase 3\Calculadora\obj\Debug\Calculadora.pdb
